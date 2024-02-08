@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.whoIsKena{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:coral;
+}
+.photo .h1{
+    text-decoration: wavy;
+}
+.photo .img{
+    display:flex;
+    align-content: center;
+}
+.likes .h2{
+    text-decoration: underline;
+}
+.aboutMe .p{
+    display:flex;
+    align-content: center;
+}
+.questions .button{
+    padding: 15px;
+    font-size: 10px;
+    color: #fef0ef;
+    background-color: black;
+    border-radius:10px;
+    border: none;
+}
